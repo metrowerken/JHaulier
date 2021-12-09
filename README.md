@@ -7,3 +7,4 @@ Created this program to restart my Java programming. Basically what I wanted to 
 - use generics as I barely used it in the past
 - use data reading/writing (either from file or database) and process this data
 - use of CVS, namely Git
+- use GUI (like Swing) to control and display results
